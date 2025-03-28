@@ -41,8 +41,6 @@ The repository is organized as follows:
   - A written report corresponding to the Module One assignment.
 - **Module Six Assignment.docx**
   - Documentation related to the assignment for Module Six.
-- **README.md**
-  - This README file providing an overview of the repository.
 
 ## Software Design Considerations
 
@@ -52,10 +50,6 @@ In developing the web-based version of _Draw It or Lose It_, several design cons
 - **Backend Development:** Developed a robust backend to handle game logic, user authentication, and data management.
 - **API Integration:** Integrated APIs for functionalities such as real-time updates and multiplayer interactions.
 - **Testing and Quality Assurance:** Conducted thorough testing to identify and resolve bugs, ensuring the software meets quality standards.
-
-## Conclusion
-
-This project demonstrates the application of operating platform concepts in developing cross-platform software solutions. By expanding _Draw It or Lose It_ to the web, **The Gaming Room** can reach a broader audience, providing an inclusive gaming experience across various devices and operating systems.
 
 ---
 
