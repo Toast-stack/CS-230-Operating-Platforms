@@ -50,7 +50,3 @@ In developing the web-based version of _Draw It or Lose It_, several design cons
 - **Backend Development:** Developed a robust backend to handle game logic, user authentication, and data management.
 - **API Integration:** Integrated APIs for functionalities such as real-time updates and multiplayer interactions.
 - **Testing and Quality Assurance:** Conducted thorough testing to identify and resolve bugs, ensuring the software meets quality standards.
-
----
-
-_Note: This README is intended to provide a comprehensive overview of the project and its components. For detailed information on specific assignments or modules, please refer to the respective documents within the repository._
